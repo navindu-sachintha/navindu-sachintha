@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [navindusachintha.com](navindusachintha.com)
 
-- 📝 I regularly write articles on [https://blog.navindusachintha.com](https://blog.navindusachintha.com)
+- 📝 I regularly write articles on [https://blog.navindusachintha.com](blog.navindusachintha.com)
 
 - 📫 How to reach me **navindu.a@navindusachintha.com**
 
