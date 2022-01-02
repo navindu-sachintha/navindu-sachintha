@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **navindu.a@navindusachintha.com**
 
-- ⚡ Fun fact **I don't care anything too much**
+- ⚡ Fun fact **I don't care matters too much**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
