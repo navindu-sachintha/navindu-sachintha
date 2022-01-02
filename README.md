@@ -1,3 +1,4 @@
+![dev ai](https://github.com/navindu-sachintha/navindu-sachintha/blob/main/Navindu%20Sachintha.png?raw=true)
 <h1 align="center">Hi 👋, I'm Navindu Sachintha</h1>
 <h3 align="center">A passionate Learner | Developer | Programmer from Sri Lanka.</h3>
 
