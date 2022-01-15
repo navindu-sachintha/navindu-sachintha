@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **FOSS**
 
-- 👨‍💻 All of my projects are available at [navindusachintha.com](navindusachintha.com)
+- 👨‍💻 All of my projects are available at [Portfoilio Site](https://navindusachintha.com)
 
-- 📝 I regularly write articles on [blog.navindusachintha.com](blog.navindusachintha.com)
+- 📝 I regularly write articles on [Blog](https://blog.navindusachintha.com)
 
 - 📫 How to reach me **navindu.a@navindusachintha.com**
 
