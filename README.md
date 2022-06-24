@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **navindu.a@navindusachintha.com**
 
-- ⚡ Fun fact **I don't care matters too much**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/navindu_sachint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navindu_sachint" height="30" width="40" /></a>
