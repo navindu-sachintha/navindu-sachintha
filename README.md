@@ -1,6 +1,6 @@
 ![dev ai](https://github.com/navindu-sachintha/navindu-sachintha/blob/main/Navindu%20Sachintha%20(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm Navindu Sachintha</h1>
-<h3 align="center">A passionate Learner | Developer | Programmer from Sri Lanka.</h3>
+<h3 align="center">A passionate Learner from Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navindu-sachintha&label=People%20who%20came&color=b4270e&style=plastic" alt="navindu-sachintha" /> </p>
 
