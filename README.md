@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navindu-sachintha&label=People%20who%20came&color=b4270e&style=plastic" alt="navindu-sachintha" /> </p>
 
-- 🔭 I’m currently working on **Personal Ranking Project**
+- 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **Computer Vision AI**
+- 🌱 I’m currently learning **C**
 
 - 👯 I’m looking to collaborate on **FOSS**
 
