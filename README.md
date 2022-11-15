@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning and AI**
 
-- 📫 How to reach me **mnsabeyrathne@students.nsbm.ac.lk**
+- 📫 How to reach me **navindu.social@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
