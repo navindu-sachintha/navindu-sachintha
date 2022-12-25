@@ -22,3 +22,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navindu-sachintha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Navindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=navindu-sachintha&show_icons=true&theme=dracula)
+![Navindu's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=navindu-sachintha&theme=vision-friendly-dark&hide_border=true)
