@@ -70,10 +70,7 @@
 </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/navindu-sachintha/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/navindu-sachintha/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> 
-</a> 
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/navindu-sachintha/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> 
 </a>
