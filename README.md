@@ -15,11 +15,8 @@
 
 </td>
 <td width="50%" align="center">
-
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p>
-
-  
-  </td>
+    <img align="center" alt="Coding" width="450" src="https://www.animatedvideo.com/blog/wp-content/uploads/2017/01/Creating_Online_Video_Courses_and_Tutorials-770x360.jpg">
+</td>
 </tr>
 </table>
 
