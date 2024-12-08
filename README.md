@@ -15,7 +15,7 @@
 
 </td>
 <td width="50%" align="center">
-    <img align="center" alt="Coding" width="450" src="https://www.animatedvideo.com/blog/wp-content/uploads/2017/01/Creating_Online_Video_Courses_and_Tutorials-770x360.jpg">
+    <img align="center" alt="Coding" width="450" src="https://github.com/navindu-sachintha/navindu-sachintha/blob/main/code-coding.gif">
 </td>
 </tr>
 </table>
