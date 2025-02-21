@@ -15,7 +15,7 @@
 
 </td>
 <td width="50%" align="center">
-    <img align="center" alt="Coding" width="450" src="https://github.com/navindu-sachintha/navindu-sachintha/blob/main/code-coding.gif">
+    <a href="https://app.daily.dev/navindusachintha"><img src="https://api.daily.dev/devcards/v2/9UeP83BstjQgmAFWebUCy.png?type=default&r=0tk" width="356" alt="Navindu Sachintha's Dev Card"/></a>
 </td>
 </tr>
 </table>
@@ -29,9 +29,7 @@
 <td width="50%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=navindu-sachintha&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=navindu-sachintha&theme=dark&hide_border=false" /> 
-</td>
+  <br>
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=navindu-sachintha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
