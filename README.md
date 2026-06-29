@@ -1,59 +1,80 @@
-<p align="center" ><img  src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 100px></p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="100px">
+</p>
+
 <h1 align="center">Hi 👋, I'm Navindu Sachintha</h1>
-<h3 align="center">Computer Science Student | Go beyond the Boundries</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=navindu-sachintha&label=Profile%20views&color=0e75b6&style=flat" alt="navindu" /> </p>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **CI/CD**
+<h3 align="center">
+Software Engineer • Cloud & DevOps Enthusiast
+</h3>
 
-- 🧑‍🎓 I’m an Undergraduate at **University of Plymouth**
-
-- 📫 How to reach me **navindu.social@gmail.com**
-
-</td>
-<td width="50%" align="center">
-    <a href="https://app.daily.dev/navindusachintha"><img src="https://api.daily.dev/devcards/v2/9UeP83BstjQgmAFWebUCy.png?type=default&r=0tk" width="356" alt="Navindu Sachintha's Dev Card"/></a>
-</td>
-</tr>
-</table>
-
----
-
-<h3 align="center">My Statistics:</h3>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=navindu-sachintha&theme=dark&show_icons=true&count_private=true" />
-  <br>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=navindu-sachintha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://linkedin.com/in/navindu-sachintha" target="blank">
-        <img align="center" src="https://github.com/navindu-sachintha/skill-icons/blob/main/icons/LinkedIn.svg" alt="navindu-sachintha" height="50" width="50" />
-    </a>
-    <a href="https://stackoverflow.com/users/14680363/navindu-sachintha" target="blank">
-        <img align="center" src="https://github.com/navindu-sachintha/skill-icons/blob/main/icons/StackOverflow-Light.svg" alt="navindu-sachintha" height="50" width="50" />
-    </a>
-    <a href="https://dev.to/navindusachintha" target="blank">
-        <img align="center" src="https://github.com/navindu-sachintha/skill-icons/blob/main/icons/DevTo-Light.svg" alt="navindu-sachintha" height="50" width="50" />
-    </a>
+  <img src="https://komarev.com/ghpvc/?username=navindu-sachintha&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/navinduS"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+## 👨‍💻 About Me
+
+- 💼 Software Engineer passionate about **Cloud Engineering** and **DevOps**
+- ☁️ Currently expanding my expertise in **Kubernetes, AWS, CI/CD and Platform Engineering**
+- 🚀 Building projects with **Next.js, Docker, Kubernetes, GitHub Actions and Azure**
+- 📚 Undergraduate at the **University of Plymouth**
+- 🎯 Goal: Become a Cloud & DevOps Engineer
+- 📫 Reach me at **navindu.social@gmail.com**
+
+---
+
+## 🏆 Certifications
+
+<p align="center">
+<a href="https://www.credly.com/users/navindu-abeyrathne">
+    <img src="https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="180" alt="KCNA Badge"/>
+</a>
+</p>
+
+<p align="center">
+<b>Kubernetes and Cloud Native Associate (KCNA)</b>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=navindu-sachintha&show_icons=true&theme=tokyonight&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navindu-sachintha&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=navindu-sachintha&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/navindu-sachintha">
+<img src="https://github.com/navindu-sachintha/skill-icons/blob/main/icons/LinkedIn.svg" width="50"/>
+</a>
+
+<a href="https://stackoverflow.com/users/14680363/navindu-sachintha">
+<img src="https://github.com/navindu-sachintha/skill-icons/blob/main/icons/StackOverflow-Light.svg" width="50"/>
+</a>
+
+<a href="https://dev.to/navindusachintha">
+<img src="https://github.com/navindu-sachintha/skill-icons/blob/main/icons/DevTo-Light.svg" width="50"/>
+</a>
+</p>
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/navinduS">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
+</a>
+</p>
