@@ -17,10 +17,8 @@ Software Engineer • Cloud & DevOps Enthusiast
 ## 👨‍💻 About Me
 
 - 💼 Software Engineer passionate about **Cloud Engineering** and **DevOps**
-- ☁️ Currently expanding my expertise in **Kubernetes, AWS, CI/CD and Platform Engineering**
+- ☁️ Currently expanding my expertise in **Kubernetes, Azure, CI/CD and Platform Engineering**
 - 🚀 Building projects with **Next.js, Docker, Kubernetes, GitHub Actions and Azure**
-- 📚 Undergraduate at the **University of Plymouth**
-- 🎯 Goal: Become a Cloud & DevOps Engineer
 - 📫 Reach me at **navindu.social@gmail.com**
 
 ---
