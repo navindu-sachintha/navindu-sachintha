@@ -57,6 +57,18 @@ Software Engineer • Cloud & DevOps Enthusiast
 
 </td>
 
+<td align="center">
+
+<a href="https://www.credly.com/users/navindu-abeyrathne">
+
+<img src="https://images.credly.com/size/680x680/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob" width="150" alt="Introduction to DevOps and Site Reliability Engineering Badge"/>
+
+</a>
+
+**Introduction to DevOps and Site Reliability Engineering**
+
+</td>
+
 </tr>
 
 </table>
