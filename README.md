@@ -28,13 +28,39 @@ Software Engineer • Cloud & DevOps Enthusiast
 ## 🏆 Certifications
 
 <p align="center">
-<a href="https://www.credly.com/users/navindu-abeyrathne">
-    <img src="https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="180" alt="KCNA Badge"/>
-</a>
-</p>
 
-<p align="center">
-<b>Kubernetes and Cloud Native Associate (KCNA)</b>
+<table>
+
+<tr>
+
+<td align="center">
+
+<a href="https://www.credly.com/users/navindu-abeyrathne">
+
+<img src="https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" width="150" alt="KCNA Badge"/>
+
+</a>
+
+**Kubernetes and Cloud Native Associate (KCNA)**
+
+</td>
+
+<td align="center">
+
+<a href="https://www.credly.com/users/navindu-abeyrathne">
+
+<img src="https://images.credly.com/size/680x680/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="150" alt="AWS Educate Introduction to Cloud 101 Badge"/>
+
+</a>
+
+**AWS Educate Introduction to Cloud 101**
+
+</td>
+
+</tr>
+
+</table>
+
 </p>
 
 ---
